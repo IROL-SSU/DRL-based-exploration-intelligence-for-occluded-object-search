@@ -1,0 +1,8 @@
+[submodule "src/DRL_training"]
+	path = src/DRL_training
+	url = https://github.com/IROL-SSU/High_level_task_planner--DRL-sim-data_train_eval.git
+	branch = master
+[submodule "src/DRL_experiment"]
+	path = src/DRL_experiment
+	url = https://github.com/7cmdehdrb/DRL-Occluded-Object-Search.git
+	branch = revision
